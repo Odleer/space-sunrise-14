@@ -1,0 +1,101 @@
+- type: entity
+  name: bench
+  id: BenchBase
+  suffix: Middle
+  abstract: true
+  parent: Chair
+  description: Multiple seats spanning a single object. Truly a marvel of science.
+  components:
+  - type: Physics
+    bodyType: Static
+  - type: Transform
+    anchored: true
+  - type: Rotatable
+  - type: Sprite
+    sprite: _Sunrise/Structures/Furniture/Benches/sofa.rsi
+
+# Диван
+- type: entity
+  name: grey sofa
+  id: BenchSofaMiddle
+  parent: BenchBase
+  components:
+  - type: Sprite
+    sprite: _Sunrise/Structures/Furniture/Benches/sofa.rsi
+    state: middle
+
+- type: entity
+  id: BenchSofaLeft
+  suffix: Left
+  parent: BenchSofaMiddle
+  components:
+  - type: Sprite
+    state: left
+
+- type: entity
+  id: BenchSofaRight
+  suffix: Right
+  parent: BenchSofaMiddle
+  components:
+  - type: Sprite
+    state: right
+
+- type: entity
+  id: BenchSofaCorner
+  suffix: Corner
+  parent: BenchSofaMiddle
+  components:
+  - type: Sprite
+    state: corner
+
+# Стальная скамейка
+- type: entity
+  name: grey sofa
+  id: BenchSteelMiddle
+  parent: BenchBase
+  components:
+  - type: Sprite
+    sprite: _Sunrise/Structures/Furniture/Benches/steel.rsi
+    state: middle
+
+- type: entity
+  id: BenchSteelLeft
+  suffix: Left
+  parent: BenchSteelMiddle
+  components:
+  - type: Sprite
+    state: left
+
+- type: entity
+  id: BenchSteelRight
+  suffix: Right
+  parent: BenchSteelMiddle
+  components:
+  - type: Sprite
+    state: right
+
+# Деревянная скамейка
+- type: entity
+  name: grey sofa
+  id: BenchWoodMiddle
+  parent: BenchBase
+  components:
+  - type: Sprite
+    sprite: _Sunrise/Structures/Furniture/Benches/wood.rsi
+    state: middle
+
+- type: entity
+  id: BenchWoodLeft
+  suffix: Left
+  parent: BenchWoodMiddle
+  components:
+  - type: Sprite
+    state: left
+
+- type: entity
+  id: BenchWoodRight
+  suffix: Right
+  parent: BenchWoodMiddle
+  components:
+  - type: Sprite
+    state: right
