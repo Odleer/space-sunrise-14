@@ -70,3 +70,15 @@
       emergencyLightColor: DarkViolet
       forceEnableEmergencyLights: true
       shuttleTime: 1200
+    zeta:
+      announcement: alert-level-zeta-announcement
+      selectable: false
+      sound:
+        path: _Sunrise/Audio/Misc/zeta.ogg
+        params:
+          volume: -3
+      disableSelection: true
+      color: DarkRed
+      emergencyLightColor: Orange
+      forceEnableEmergencyLights: true
+      shuttleTime: 1200
