@@ -1,0 +1,23 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatPoliceUshanka
+  name: police's earflaps
+  description: "Perfect for winter in Siberia, da?"
+  suffix: RedArmy
+  components:
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/Head/Hats/ushanka_police.rsi
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Head/Hats/ushanka_police.rsi
+
+- type: entity
+  parent: ClothingHeadHatPoliceUshanka
+  id: ClothingHeadHatColonelUshanka
+  name: colonel's earflaps
+  description: "Perfect for winter in Siberia, da?"
+  suffix: RedArmy
+  components:
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/Head/Hats/ushanka_colonel.rsi
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Head/Hats/ushanka_colonel.rsi

@@ -1,0 +1,9 @@
+- type: entity
+  parent: ClothingBackpackSatchel
+  id: ClothingBackpackSatchelWar
+  suffix: RedArmy
+  name: satchel
+  description: A robust satchel for police related needs.
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Back/Satchels/satchels.rsi

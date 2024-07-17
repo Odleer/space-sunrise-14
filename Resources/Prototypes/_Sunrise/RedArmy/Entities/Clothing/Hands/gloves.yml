@@ -1,0 +1,33 @@
+- type: entity
+  parent: ClothingHandsGlovesSyntheticBase
+  id: ClothingHandsGlovesWar
+  name: gloves
+  suffix: RedArmy
+  description: Regular black gloves that do not keep you from frying.
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Hands/Gloves/gloves.rsi
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/Hands/Gloves/gloves.rsi
+  - type: GloveHeatResistance
+    heatResistance: 1400
+  - type: Insulated
+  - type: Fiber
+    fiberMaterial: fibers-insulative
+
+- type: entity
+  parent: ClothingHandsGlovesSyntheticBase
+  id: ClothingHandsGlovesInsulsWar
+  name: fingerless gloves
+  suffix: RedArmy
+  description: Regular black gloves that do not keep you from frying.
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Hands/Gloves/glovesinsuls.rsi
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/Hands/Gloves/glovesinsuls.rsi
+  - type: GloveHeatResistance
+    heatResistance: 1400
+  - type: Insulated
+  - type: Fiber
+    fiberMaterial: fibers-insulative

@@ -1,0 +1,11 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitRedArmyPolice
+  name: police uniform
+  suffix: RedArmy
+  description: A terribly ragged and frayed jumpsuit. It looks like it hasn't been washed in over a decade.
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Uniforms/Jumpsuit/police.rsi
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/Uniforms/Jumpsuit/police.rsi
