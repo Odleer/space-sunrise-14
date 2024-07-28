@@ -31,3 +31,15 @@
   - type: Insulated
   - type: Fiber
     fiberMaterial: fibers-insulative
+
+- type: entity
+  parent: ClothingHandsGlovesColorYellow
+  id: ClothingHandsGlovesInsulatedWar
+  name: insulated gloves
+  suffix: RedArmy
+  description: These gloves will protect the wearer from electric shocks.
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Hands/Gloves/glovesinsulated.rsi
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/Hands/Gloves/glovesinsulated.rsi

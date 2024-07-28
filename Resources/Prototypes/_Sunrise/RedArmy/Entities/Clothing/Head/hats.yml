@@ -21,3 +21,15 @@
     sprite: _Sunrise/RedArmy/Clothing/Head/Hats/ushanka_colonel.rsi
   - type: Sprite
     sprite: _Sunrise/RedArmy/Clothing/Head/Hats/ushanka_colonel.rsi
+
+- type: entity
+  parent: ClothingHeadHatPoliceUshanka
+  id: ClothingHeadHatColonelBudenovka
+  name: budenovka
+  description: "Perfect for winter in Siberia, da?"
+  suffix: RedArmy
+  components:
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/Head/Hats/budenovka.rsi
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Head/Hats/budenovka.rsi

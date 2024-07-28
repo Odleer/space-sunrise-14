@@ -1,0 +1,11 @@
+- type: entity
+  parent: ClothingHeadHelmetBasic
+  id: ClothingHeadHelmetRedArmy
+  name: helmet
+  suffix: RedArmy
+  description: The combat helmet is commonly used by mercenaries, is strong, light and smells like gunpowder and the jungle.
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Head/Helmets/helmet.rsi
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/Head/Helmets/helmet.rsi

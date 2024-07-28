@@ -1,0 +1,11 @@
+- type: entity
+  parent: ClothingScarfBase
+  id: ClothingNeckScarfRedArmy
+  name: scarf
+  suffix: RedArmy
+  description: A terribly torn and frayed scarf. It looks like it hasn't been washed in over ten years.
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Neck/Scarfs/Scarfs.rsi
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/Neck/Scarfs/Scarfs.rsi

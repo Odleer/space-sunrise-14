@@ -1,0 +1,9 @@
+- type: entity
+  parent: ClothingBackpackDuffel
+  id: ClothingBackpackDuffelRedArmy
+  name: duffel bag
+  suffix: RedArmy
+  description: You wear this on your back and put items into it.
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/Back/Duffels/duffels.rsi

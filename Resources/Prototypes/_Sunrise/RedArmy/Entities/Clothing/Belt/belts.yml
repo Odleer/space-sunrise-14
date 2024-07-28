@@ -1,0 +1,92 @@
+- type: entity
+  parent: ClothingBeltStorageBase
+  id: ClothingBeltCartridgeRedArmy
+  name: cartridge belt
+  description: Can hold ammo.
+  suffix: RedArmy
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/belt/cartridge.rsi
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/belt/cartridge.rsi
+  - type: Storage
+    whitelist:
+      components:
+        - Ammo
+        - BallisticAmmoProvider
+
+- type: entity
+  parent: ClothingBeltStorageBase
+  id: ClothingBeltMedicRedArmy
+  name: medical belt
+  description: Can hold medications.
+  suffix: RedArmy
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/belt/medic.rsi
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/belt/medic.rsi
+  - type: Storage
+    whitelist:
+      tags:
+        - Wrench
+        - Bottle
+        - Spray
+        - Brutepack
+        - Bloodpack
+        - Gauze
+        - Ointment
+        - CigPack
+        - PillCanister
+        - Radio
+        - DiscreteHealthAnalyzer
+        - SurgeryTool
+        - Dropper
+      components:
+        - Hypospray
+        - Injector
+        - Pill
+        - HandLabeler
+
+- type: entity
+  parent: ClothingBeltStorageBase
+  id: ClothingBeltEngineerRedArmy
+  name: engineering belt
+  description: Can hold tools.
+  suffix: RedArmy
+  components:
+  - type: Sprite
+    sprite: _Sunrise/RedArmy/Clothing/belt/engineer.rsi
+  - type: Clothing
+    sprite: _Sunrise/RedArmy/Clothing/belt/engineer.rsi
+  - type: Storage
+    whitelist:
+      tags:
+        - Powerdrill
+        - Wirecutter
+        - Crowbar
+        - Screwdriver
+        - Flashlight
+        - Wrench
+        - GeigerCounter
+        - Flare
+        - CableCoil
+        - CigPack
+        - Radio
+        - HolofanProjector
+        - Multitool
+        - AppraisalTool
+        - JawsOfLife
+        - GPS
+        - WeldingMask
+      components:
+        - SprayPainter
+        - NetworkConfigurator
+        - RCD
+        - RCDAmmo
+        - Welder
+        - PowerCell
+        - Geiger
+        - TrayScanner
+        - GasAnalyzer
+        - HandLabeler

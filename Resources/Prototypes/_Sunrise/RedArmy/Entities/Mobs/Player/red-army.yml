@@ -1,0 +1,30 @@
+- type: entity
+  parent: MobHuman
+  id: MobHumanSoldierBase
+  name: syndicate agent
+  suffix: Human, Base
+  components:
+    - type: RandomHumanoidAppearance
+      randomizeName: false
+      hair: HairBald
+    - type: RandomMetadata
+      nameSegments: # Russian-LastNameGender
+      - names_first_male
+      - names_last_male
+
+- type: randomHumanoidSettings
+  id: CentcomOfficial
+  speciesBlacklist: # Sunrise-edit
+  - Diona
+  - Vox
+  - Felinid
+  parent: EventHumanoidMindShielded
+  components:
+    - type: GhostRole
+      name: ghost-role-information-centcom-official-name
+      description: ghost-role-information-centcom-official-description
+      rules: ghost-role-information-nonantagonist-rules
+      raffle:
+        settings: default
+    - type: Loadout
+      prototypes: [ CentCommOfficialGear ] # Sunrise-Edit
