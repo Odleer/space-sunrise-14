@@ -12,19 +12,47 @@
       - names_first_male
       - names_last_male
 
-- type: randomHumanoidSettings
-  id: CentcomOfficial
-  speciesBlacklist: # Sunrise-edit
-  - Diona
-  - Vox
-  - Felinid
-  parent: EventHumanoidMindShielded
+- type: entity
+  parent: MobHumanSoldierBase
+  id: RedArmySoldier
+  name: Army Soldier
+  suffix: RedArmy
   components:
-    - type: GhostRole
-      name: ghost-role-information-centcom-official-name
-      description: ghost-role-information-centcom-official-description
-      rules: ghost-role-information-nonantagonist-rules
-      raffle:
-        settings: default
     - type: Loadout
-      prototypes: [ CentCommOfficialGear ] # Sunrise-Edit
+      prototypes: [ RedArmySoldierGear ]
+
+- type: entity
+  parent: MobHumanSoldierBase
+  id: RedArmySergeant
+  name: Army Sergeant
+  suffix: RedArmy
+  components:
+    - type: Loadout
+      prototypes: [ RedArmySergeantGear ]
+
+- type: entity
+  parent: MobHumanSoldierBase
+  id: RedArmyColonel
+  name: Army Colonel
+  suffix: RedArmy
+  components:
+    - type: Loadout
+      prototypes: [ RedArmyColonelGear ]
+
+- type: entity
+  parent: MobHumanSoldierBase
+  id: RedArmyPolice
+  name: Police 
+  suffix: RedArmy
+  components:
+    - type: Loadout
+      prototypes: [ RedArmyPoliceGear ]
+
+- type: entity
+  parent: MobHumanSoldierBase
+  id: RedArmyPoliceCaptain
+  name: Police Captain
+  suffix: RedArmy
+  components:
+    - type: Loadout
+      prototypes: [ RedArmyPoliceCapGear ]

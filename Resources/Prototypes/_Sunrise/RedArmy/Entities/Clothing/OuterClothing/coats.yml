@@ -61,7 +61,7 @@
 
 - type: entity
   parent: ClothingOuterStorageBase
-  id: ClothingOuterCoatPaddedJacketGreatcoat
+  id: ClothingOuterCoatPaddedJacket
   name: padded jacket
   suffix: RedArmy
   description: Lightweight quilted jacket designed for everyday military use.

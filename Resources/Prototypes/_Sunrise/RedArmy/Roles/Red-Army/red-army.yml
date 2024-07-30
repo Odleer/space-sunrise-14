@@ -1,0 +1,63 @@
+- type: startingGear
+  id: RedArmySoldierGear
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitRedArmyBrownGymnast
+    back: ClothingBackpackDuffelRedArmy
+    shoes: ClothingShoesBootsWar
+    gloves: ClothingHandsGlovesInsulsWar
+    outerClothing: ClothingOuterCoatPaddedJacket
+#    suitstorage:
+#    id: 
+    belt: ClothingBeltCartridgeRedArmy
+    head: ClothingHeadHatColonelBudenovka
+    neck: ClothingNeckScarfRedArmy
+
+- type: startingGear
+  id: RedArmySergeantGear
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitRedArmyGreenGymnast
+    back: ClothingBackpackDuffelRedArmy
+    shoes: ClothingShoesBootsWar
+    gloves: ClothingHandsGlovesWar
+    outerClothing: ClothingOuterCoatSergeantGreatcoat
+#    suitstorage:
+#    id: 
+    belt: ClothingBeltCartridgeRedArmy
+    head: ClothingHeadHelmetRedArmy
+
+- type: startingGear
+  id: RedArmyColonelGear
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitRedArmyGreenGymnast
+    back: ClothingBackpackRedArmy
+    shoes: ClothingShoesBootsWar
+    gloves: ClothingHandsGlovesWar
+    outerClothing: ClothingOuterCoatColonelGreatcoat
+#    suitstorage:
+#    id: 
+    belt: ClothingBeltCartridgeRedArmy
+    head: ClothingHeadHatColonelUshanka
+
+- type: startingGear
+  id: RedArmyPoliceGear
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitRedArmyPolice
+    back: ClothingBackpackSatchelWar
+    shoes: ClothingShoesBootsWar
+    gloves: ClothingHandsGlovesWar
+    outerClothing: ClothingOuterCoatPoliceGreatcoat
+#    suitstorage:
+#    id: 
+    head: ClothingHeadHatPoliceUshanka
+
+- type: startingGear
+  id: RedArmyPoliceCapGear
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitRedArmyPolice
+    back: ClothingBackpackSatchelWar
+    shoes: ClothingShoesBootsWar
+    gloves: ClothingHandsGlovesWar
+    outerClothing: ClothingOuterCoatPoliceCapGreatcoat
+#    suitstorage:
+#    id: 
+    head: ClothingHeadHatPoliceUshanka
