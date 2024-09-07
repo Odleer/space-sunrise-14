@@ -1,0 +1,22 @@
+- type: job
+  id: SyndicateResearch
+  name: job-name-senior-researcher
+  description: job-description-senior-researcher
+  playTimeTracker: JobSyndicateResearch
+  requirements:
+    - !type:DepartmentTimeRequirement
+      department: Science
+      time: 216000 #60 hrs
+  startingGear: SyndicateResearchGear
+  icon: "JobIconSeniorResearcher"
+  supervisors: job-supervisors-rd
+  displayWeight: 35
+  access:
+  - SyndicateResearch
+  - SyndicateMaintenance
+
+- type: startingGear
+  id: SyndicateResearchGear
+  equipment:
+    id: SeniorEngineerPDA
+    ears: ClothingHeadsetEngineering

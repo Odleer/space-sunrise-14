@@ -1,0 +1,7 @@
+- type: accessLevel
+  id: SyndicateResearch
+  name: id-card-access-level-nuclear-operative
+
+- type: accessLevel
+  id: SyndicateMaintenance
+  name: id-card-access-level-nuclear-operative

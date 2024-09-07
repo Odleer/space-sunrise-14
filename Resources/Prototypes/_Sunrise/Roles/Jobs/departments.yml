@@ -46,19 +46,11 @@
   - PlanetPrisoner
 
 - type: department
-  id: Silicon
-  sort: 0
+  id: Taipan
   name: department-Silicon
   description: department-Silicon-description
-  color: "#8D9AAC"
+  color: "#2F2E31"
   roles:
-  - Borg
-  - MedicalBorg
-  - EngineerBorg
-  - MinerBorg
-  - JanitorBorg
-  - ServiceBorg
-  - SecurityBorg
-  - ClownBorg
-  - PeaceBorg
+  - SyndicateResearch
   primary: false
+  weight: 110

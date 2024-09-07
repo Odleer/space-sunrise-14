@@ -302,3 +302,18 @@
   - Bra
   - Pants
   - Socks
+
+- type: roleLoadout
+  id: JobSyndicateResearch
+  groups:
+  - SyndicateResearchJumpsuit
+  - ScientistBackpack
+  - ScientistGloves
+  - ScientistShoes
+  - Glasses
+  - Survival
+  - Trinkets
+  - GroupSpeciesBreathTool
+  - Bra
+  - Pants
+  - Socks

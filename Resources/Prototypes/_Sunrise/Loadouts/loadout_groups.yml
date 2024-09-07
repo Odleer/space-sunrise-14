@@ -271,3 +271,10 @@
   loadouts:
   - SecurityPilotJumpsuit
   - SecurityPilotJumpskirt
+
+- type: loadoutGroup
+  id: SyndicateResearchJumpsuit
+  name: loadout-group-security-pilot-jumpsuit
+  loadouts:
+  - JumpsuitSyndicateResearch
+  - JumpskirtSyndicateResearch
