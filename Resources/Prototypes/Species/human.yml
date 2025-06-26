@@ -109,158 +109,158 @@
 - type: humanoidBaseSprite
   id: MobHumanHead
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: head_m
 
 - type: humanoidBaseSprite
   id: MobHumanHeadMale
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: head_m
 
 - type: humanoidBaseSprite
   id: MobHumanHeadFemale
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: head_f
 
 - type: humanoidBaseSprite
   id: MobHumanTorso
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: torso_m
 
 - type: humanoidBaseSprite
   id: MobHumanTorsoMale
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: torso_m
 
 - type: humanoidBaseSprite
   id: MobHumanTorsoFemale
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: torso_f
 
 - type: humanoidBaseSprite
   id: MobHumanLLeg
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: l_leg
 
 - type: humanoidBaseSprite
   id: MobHumanLArm
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: l_arm
 
 - type: humanoidBaseSprite
   id: MobHumanLHand
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: l_hand
 
 - type: humanoidBaseSprite
   id: MobHumanLFoot
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: l_foot
 
 - type: humanoidBaseSprite
   id: MobHumanRLeg
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: r_leg
 
 - type: humanoidBaseSprite
   id: MobHumanRArm
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: r_arm
 
 - type: humanoidBaseSprite
   id: MobHumanRHand
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: r_hand
 
 - type: humanoidBaseSprite
   id: MobHumanRFoot
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: r_foot
 
 - type: humanoidBaseSprite
   id: MobHumanSlimHead
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: head_slim
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: head
 
 - type: humanoidBaseSprite
   id: MobHumanSlimHeadFemale
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: head_slim_f
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: head_f
 
 - type: humanoidBaseSprite
   id: MobHumanSlimTorso
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: torso_slim
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: torso
 
 - type: humanoidBaseSprite
   id: MobHumanSlimTorsoFemale
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: torso_slim_f
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: torso_f
 
 - type: humanoidBaseSprite
   id: MobHumanSlimLLeg
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: l_leg_slim
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: l_leg
 
 - type: humanoidBaseSprite
   id: MobHumanSlimLArm
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: l_arm_slim
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: l_arm
 
 - type: humanoidBaseSprite
   id: MobHumanSlimLHand
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: l_hand_slim
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: l_hand
 
 - type: humanoidBaseSprite
   id: MobHumanSlimLFoot
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: l_foot_slim
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: l_foot
 
 - type: humanoidBaseSprite
   id: MobHumanSlimRLeg
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: r_leg_slim
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: r_leg
 
 - type: humanoidBaseSprite
   id: MobHumanSlimRArm
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: r_arm_slim
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: r_arm
 
 - type: humanoidBaseSprite
   id: MobHumanSlimRHand
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: r_hand_slim
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: r_hand
 
 - type: humanoidBaseSprite
   id: MobHumanSlimRFoot
   baseSprite:
-    sprite: Mobs/Species/Human/parts.rsi
-    state: r_foot_slim
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: r_foot
 
 - type: humanoidBaseSprite
   id: MobHumanoidSlimEyes
