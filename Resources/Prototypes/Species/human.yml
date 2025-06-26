@@ -194,7 +194,7 @@
   id: MobHumanSlimHead
   baseSprite:
     sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
-    state: head
+    state: head_m
 
 - type: humanoidBaseSprite
   id: MobHumanSlimHeadFemale
@@ -206,7 +206,7 @@
   id: MobHumanSlimTorso
   baseSprite:
     sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
-    state: torso
+    state: torso_m
 
 - type: humanoidBaseSprite
   id: MobHumanSlimTorsoFemale
