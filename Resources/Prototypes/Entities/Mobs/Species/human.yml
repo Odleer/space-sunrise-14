@@ -32,46 +32,105 @@
           32:
             sprite: _Sunrise/Mobs/Species/Human/Basic/displacement.rsi
             state: jumpsuit-female
-      jumpsuit-body-slim:
+### Тонкий
+# Женщина
+      jumpsuit-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: jumpsuit-female
-      shoes-body-slim:
+      shoes-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: shoes
-      gloves-body-slim:
+      gloves-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: gloves
-      pants-body-slim:
+      pants-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: panties
-      socks-body-slim:
+      socks-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: socks
-      bra-body-slim:
+      bra-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: bra
-      outerClothing-body-slim:
+      outerClothing-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: outer
-      hardsuit-body-slim:
+      hardsuit-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: hardsuit
+      back-body-slim-f:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: back
+# Мужчина
+      jumpsuit-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: jumpsuit
+      shoes-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: shoes
+      gloves-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: gloves
+      pants-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: panties
+      socks-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: socks
+      bra-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: bra
+      outerClothing-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: outer
+      hardsuit-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: hardsuit
+      back-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: back
+
+
+
+
+
+
   # Sunrise-Start
   - type: FootprintEmitter
   - type: Carriable
@@ -90,47 +149,95 @@
           32:
             sprite: _Sunrise/Mobs/Species/Human/Basic/displacement.rsi
             state: jumpsuit-female
-      jumpsuit-body-slim:
+### Тонкий
+# Женщина
+      jumpsuit-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: jumpsuit-female
-      shoes-body-slim:
+      shoes-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: shoes
-      gloves-body-slim:
+      gloves-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: gloves
-      pants-body-slim:
+      pants-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: panties
-      socks-body-slim:
+      socks-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: socks
-      bra-body-slim:
+      bra-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: bra
-      outerClothing-body-slim:
+      outerClothing-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: outer
-      hardsuit-body-slim:
+      hardsuit-body-slim-f:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
             state: hardsuit
-      back-body-slim:
+      back-body-slim-f:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: back
+# Мужчина
+      jumpsuit-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: jumpsuit
+      shoes-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: shoes
+      gloves-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: gloves
+      pants-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: panties
+      socks-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: socks
+      bra-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: bra
+      outerClothing-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: outer
+      hardsuit-body-slim-m:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi
+            state: hardsuit
+      back-body-slim-m:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Slim/displacement.rsi

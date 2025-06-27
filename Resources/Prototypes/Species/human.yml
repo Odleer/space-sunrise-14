@@ -5,7 +5,8 @@
   prototype: MobHuman
   bodyTypes:
   - HumanNormal
-  - HumanSlim
+  - HumanSlimF
+  - HumanSlimM
   markingLimits: MobHumanMarkingLimits
   dollPrototype: MobHumanDummy
   skinColoration: HumanToned
@@ -40,10 +41,33 @@
     RFoot: MobHumanRFoot
 
 - type: bodyType
-  id: HumanSlim
-  name: body-slim
+  id: HumanSlimF
+  name: body-slim-f
   sexRestrictions:
   - Male
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanSlimHead
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanSlimTorso
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidSlimEyes
+    LArm: MobHumanSlimLArm
+    RArm: MobHumanSlimRArm
+    LHand: MobHumanSlimLHand
+    RHand: MobHumanSlimRHand
+    LLeg: MobHumanSlimLLeg
+    RLeg: MobHumanSlimRLeg
+    LFoot: MobHumanSlimLFoot
+    RFoot: MobHumanSlimRFoot
+
+- type: bodyType
+  id: HumanSlimM
+  name: body-slim-m
+  sexRestrictions:
+  - Female
   sprites:
     Special: MobHumanoidAnyMarking
     Head: MobHumanSlimHead
@@ -190,8 +214,10 @@
     sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: r_foot
 
+
+### Slim
 - type: humanoidBaseSprite
-  id: MobHumanSlimHead
+  id: MobHumanSlimHeadMale
   baseSprite:
     sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
     state: head_m
@@ -203,7 +229,7 @@
     state: head_f
 
 - type: humanoidBaseSprite
-  id: MobHumanSlimTorso
+  id: MobHumanSlimTorsoMale
   baseSprite:
     sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
     state: torso_m
