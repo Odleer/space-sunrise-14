@@ -26,7 +26,8 @@
     - Hair
     - Snout
   - type: Inventory
-### Based
+### Female
+## Based
 # New
     femaleDisplacements:
       jumpsuit:
@@ -43,8 +44,8 @@
             state: jumpsuit-female
 
 
-### Slim
-# Female
+## Slim
+# New
       jumpsuit-body-slim-f-new:
         sizeMaps:
           32:
@@ -96,19 +97,56 @@
             sprite: _Sunrise/Mobs/Species/Human/New/Slim/displacement.rsi
             state: head
 
+# Old
+      jumpsuit-body-slim-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: jumpsuit-female
+      shoes-body-slim-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: shoes
+      gloves-body-slim-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: gloves
+      pants-body-slim-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: panties
+      socks-body-slim-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: socks
+      bra-body-slim-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: bra
+      outerClothing-body-slim-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: outer
+      hardsuit-body-slim-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: hardsuit
+      back-body-slim-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: back
 
-
-
-
-
-
-
-
-
-
-
-
-# Male
+### Male
+## Slim
+# New
     maleDisplacements:
       jumpsuit-body-slim-m-new:
         sizeMaps:
@@ -161,7 +199,52 @@
             sprite: _Sunrise/Mobs/Species/Human/New/Slim/displacement.rsi
             state: head
 
-
+# Old
+      jumpsuit-body-slim-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: jumpsuit
+      shoes-body-slim-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: shoes
+      gloves-body-slim-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: gloves
+      pants-body-slim-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: panties
+      socks-body-slim-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: socks
+      bra-body-slim-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: bra
+      outerClothing-body-slim-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: outer
+      hardsuit-body-slim-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: hardsuit
+      back-body-slim-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: back
 
 
 

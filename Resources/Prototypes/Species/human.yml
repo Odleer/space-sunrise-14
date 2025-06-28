@@ -8,6 +8,8 @@
   - HumanSlimFemaleNew
   - HumanSlimMaleNew
   - HumanNormalOld
+  - HumanSlimFemaleOld
+  - HumanSlimMaleOld
   markingLimits: MobHumanMarkingLimits
   dollPrototype: MobHumanDummy
   skinColoration: HumanToned
@@ -109,6 +111,52 @@
     LFoot: MobHumanSlimLFootNew
     RFoot: MobHumanSlimRFootNew
 
+- type: bodyType
+  id: HumanSlimFemaleOld
+  name: body-slim-f-old
+  sexRestrictions:
+  - Male
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanSlimHeadOld
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanSlimTorsoOld
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidSlimEyesOld
+    LArm: MobHumanSlimLArmOld
+    RArm: MobHumanSlimRArmOld
+    LHand: MobHumanSlimLHandOld
+    RHand: MobHumanSlimRHandOld
+    LLeg: MobHumanSlimLLegOld
+    RLeg: MobHumanSlimRLegOld
+    LFoot: MobHumanSlimLFootOld
+    RFoot: MobHumanSlimRFootOld
+
+- type: bodyType
+  id: HumanSlimMaleOld
+  name: body-slim-m-old
+  sexRestrictions:
+  - Female
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanSlimHeadOld
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanSlimTorsoOld
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidSlimEyesOld
+    LArm: MobHumanSlimLArmOld
+    RArm: MobHumanSlimRArmOld
+    LHand: MobHumanSlimLHandOld
+    RHand: MobHumanSlimRHandOld
+    LLeg: MobHumanSlimLLegOld
+    RLeg: MobHumanSlimRLegOld
+    LFoot: MobHumanSlimLFootOld
+    RFoot: MobHumanSlimRFootOld
+
 - type: markingPoints
   id: MobHumanMarkingLimits
   points:
@@ -140,7 +188,7 @@
       points: 2
       required: false
 
-### Basic
+## Based
 # New
 - type: humanoidBaseSprite
   id: MobHumanoidEyesNew
@@ -227,6 +275,8 @@
     sprite: _Sunrise/Mobs/Species/Human/New/Basic/parts.rsi
     state: r_foot
 
+
+
 # Old
 - type: humanoidBaseSprite
   id: MobHumanoidEyesOld
@@ -308,7 +358,8 @@
 
 
 
-### Slim
+## Slim
+# New
 - type: humanoidBaseSprite
   id: MobHumanSlimHeadNewMale
   baseSprite:
@@ -383,6 +434,87 @@
 
 - type: humanoidBaseSprite
   id: MobHumanoidSlimEyesNew
+  baseSprite:
+    sprite: _Sunrise/Mobs/Customization/slim_eyes.rsi
+    state: slim_eyes
+
+
+
+# Old
+- type: humanoidBaseSprite
+  id: MobHumanSlimHeadOldMale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimHeadOldFemale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: head_f
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimTorsoOldMale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimTorsoOldFemale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: torso_f
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimLLegOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: l_leg
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimLArmOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: l_arm
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimLHandOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: l_hand
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimLFootOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: l_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimRLegOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: r_leg
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimRArmOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: r_arm
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimRHandOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: r_hand
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimRFootOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: r_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanoidSlimEyesOld
   baseSprite:
     sprite: _Sunrise/Mobs/Customization/slim_eyes.rsi
     state: slim_eyes
