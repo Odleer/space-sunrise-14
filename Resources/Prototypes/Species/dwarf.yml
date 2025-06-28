@@ -7,6 +7,15 @@
   - HumanNormalNew
   - HumanSlimFemaleNew
   - HumanSlimMaleNew
+  - HumanNormalOld
+  - HumanSlimFemaleOld
+  - HumanSlimMaleOld
+  - HumanGigaFemaleOld
+  - HumanGigaMaleOld
+  - HumanFatFemaleOld
+  - HumanFatMaleOld
+  - HumanDistrofikFemaleOld
+  - HumanDistrofikMaleOld
   markingLimits: MobHumanMarkingLimits
   dollPrototype: MobDwarfDummy
   skinColoration: HumanToned
