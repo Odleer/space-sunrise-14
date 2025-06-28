@@ -378,6 +378,54 @@
             sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
             state: back
 
+## Giga
+# Old
+      jumpsuit-body-Giga-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: jumpsuit-female
+      shoes-body-Giga-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: shoes
+      gloves-body-Giga-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: gloves
+      pants-body-Giga-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: panties
+      socks-body-Giga-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: socks
+      bra-body-Giga-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: bra
+      outerClothing-body-Giga-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: outer
+      hardsuit-body-Giga-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: hardsuit
+      back-body-Giga-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: back
+
 ### Male
 ## Slim
 # New
@@ -478,4 +526,52 @@
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Old/Slim/displacement.rsi
+            state: back
+
+## Giga
+# Old
+      jumpsuit-body-giga-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: jumpsuit
+      shoes-body-giga-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: shoes
+      gloves-body-giga-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: gloves
+      pants-body-giga-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: panties
+      socks-body-giga-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: socks
+      bra-body-giga-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: bra
+      outerClothing-body-giga-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: outer
+      hardsuit-body-giga-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
+            state: hardsuit
+      back-body-giga-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
             state: back
