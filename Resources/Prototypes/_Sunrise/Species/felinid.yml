@@ -4,8 +4,9 @@
   roundStart: true
   prototype: MobFelinid
   bodyTypes:
-  - HumanNormal
-  - HumanSlim
+  - HumanNormalNew
+  - HumanSlimFemaleNew
+  - HumanSlimMaleNew
   markingLimits: MobFelinidMarkingLimits
   dollPrototype: MobFelinidDummy
   skinColoration: HumanToned
