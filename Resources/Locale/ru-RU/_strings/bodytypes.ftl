@@ -1,24 +1,24 @@
 humanoid-profile-editor-body-type-label = Телосложение:
-body-normal-new = Среднее [New]
-body-normal-old = Среднее [Old]
+body-normal-new = Среднее [Alt]
+body-normal-old = Среднее 
 
-body-slim-f-new = Худое [New]
-body-slim-m-new = Худое [New]
-body-slim-f-old = Худое [Old]
-body-slim-m-old = Худое [Old]
+body-slim-f-new = Худое [Alt]
+body-slim-m-new = Худое [Alt]
+body-slim-f-old = Худое
+body-slim-m-old = Худое
 
-body-fat-f-new = Полное [New]
-body-fat-m-new = Полное [New]
-body-fat-f-old = Полное [Old]
-body-fat-m-old = Полное [Old]
+body-fat-f-new = Полное [Alt]
+body-fat-m-new = Полное [Alt]
+body-fat-f-old = Полное
+body-fat-m-old = Полное
 
-body-giga-f-new = Мускулистое [New]
-body-giga-m-new = Мускулистое [New]
-body-giga-f-old = Мускулистое [Old]
-body-giga-m-old = Мускулистое [Old]
+body-giga-f-new = Мускулистое [Alt]
+body-giga-m-new = Мускулистое [Alt]
+body-giga-f-old = Мускулистое 
+body-giga-m-old = Мускулистое 
 
-body-distrofik-f-new = Истощённое [New]
-body-distrofik-m-new = Истощённое [New]
-body-distrofik-f-old = Истощённое [Old]
-body-distrofik-m-old = Истощённое [Old]
+body-distrofik-f-new = Истощённое [Alt]
+body-distrofik-m-new = Истощённое [Alt]
+body-distrofik-f-old = Истощённое
+body-distrofik-m-old = Истощённое
 

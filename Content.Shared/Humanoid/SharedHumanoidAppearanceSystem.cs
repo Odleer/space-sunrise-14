@@ -49,7 +49,7 @@ public abstract class SharedHumanoidAppearanceSystem : EntitySystem
     public const string DefaultSpecies = "Human";
 
     [ValidatePrototypeId<BodyTypePrototype>]
-    public const string DefaultBodyType = "HumanNormalNew"; // Sunrise
+    public const string DefaultBodyType = "HumanNormalOld"; // Sunrise
 
     // Sunrise-TTS-Start
     public const string DefaultVoice = "Voljin";

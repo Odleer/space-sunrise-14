@@ -4,9 +4,6 @@
   roundStart: true
   prototype: MobHuman
   bodyTypes:
-  - HumanNormalNew
-  - HumanSlimFemaleNew
-  - HumanSlimMaleNew
   - HumanNormalOld
   - HumanSlimFemaleOld
   - HumanSlimMaleOld
@@ -16,6 +13,9 @@
   - HumanFatMaleOld
   - HumanDistrofikFemaleOld
   - HumanDistrofikMaleOld
+  - HumanNormalNew
+  - HumanSlimFemaleNew
+  - HumanSlimMaleNew
   markingLimits: MobHumanMarkingLimits
   dollPrototype: MobHumanDummy
   skinColoration: HumanToned
