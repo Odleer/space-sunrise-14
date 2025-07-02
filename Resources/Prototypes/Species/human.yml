@@ -39,7 +39,7 @@
     FacialHair: MobHumanoidAnyMarking
     Snout: MobHumanoidAnyMarking
     Chest: MobHumanTorsoNew
-    Eyes: MobHumanoidEyesNew
+    Eyes: MobHumanoidEyes
     HeadTop: MobHumanoidAnyMarking
     Tail: MobHumanoidAnyMarking #Sunrise-edit
     LArm: MobHumanLArmNew
@@ -61,7 +61,7 @@
     FacialHair: MobHumanoidAnyMarking
     Snout: MobHumanoidAnyMarking
     Chest: MobHumanTorsoOld
-    Eyes: MobHumanoidEyesOld
+    Eyes: MobHumanoidEyes
     HeadTop: MobHumanoidAnyMarking
     Tail: MobHumanoidAnyMarking #Sunrise-edit
     LArm: MobHumanLArmOld
@@ -389,11 +389,6 @@
 
 ## Based
 # New
-- type: humanoidBaseSprite
-  id: MobHumanoidEyesNew
-  baseSprite:
-    sprite: Mobs/Customization/eyes.rsi
-    state: eyes
 
 - type: humanoidBaseSprite
   id: MobHumanoidAnyMarking
@@ -478,7 +473,7 @@
 
 # Old
 - type: humanoidBaseSprite
-  id: MobHumanoidEyesOld
+  id: MobHumanoidEyes
   baseSprite:
     sprite: Mobs/Customization/eyes.rsi
     state: eyes

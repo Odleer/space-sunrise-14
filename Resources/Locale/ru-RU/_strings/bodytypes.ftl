@@ -1,6 +1,8 @@
 humanoid-profile-editor-body-type-label = Телосложение:
-body-normal-new = Среднее [Alt]
-body-normal-old = Среднее 
+body-normal = Стандартное
+
+body-normal-new = Стандартное [Alt]
+body-normal-old = Стандартное
 
 body-slim-f-new = Худое [Alt]
 body-slim-m-new = Худое [Alt]

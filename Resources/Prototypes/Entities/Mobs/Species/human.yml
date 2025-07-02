@@ -335,7 +335,7 @@
             sprite: _Sunrise/Mobs/Species/Human/Old/Distrofik/displacement.rsi
             state: back
 
-### Male
+### Male 
 ## Slim
 # New
     maleDisplacements:
@@ -469,7 +469,7 @@
           32:
             sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
             state: back
-      neck-body-giga-f-old:
+      neck-body-giga-m-old:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
@@ -477,63 +477,11 @@
 
 ## Fat
 # New
-      jumpsuit-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: jumpsuit-female
-      shoes-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: shoes
-      gloves-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: gloves
-      pants-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: panties
-      socks-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: socks
-      bra-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: bra
-      outerClothing-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: outer
-      hardsuit-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: hardsuit
-      back-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: back
-      head-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: head
-
-# Old
       jumpsuit-body-fat-m-new:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: jumpsuit
+            state: jumpsuit-female
       shoes-body-fat-m-new:
         sizeMaps:
           32:
@@ -574,6 +522,63 @@
           32:
             sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
             state: back
+      head-body-fat-m-new:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: head
+
+# Old
+      jumpsuit-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: jumpsuit
+      shoes-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: shoes
+      gloves-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: gloves
+      pants-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: panties
+      socks-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: socks
+      bra-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: bra
+      outerClothing-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: outer
+      hardsuit-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: hardsuit
+      back-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: back
+      head-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: head
 
 
 
@@ -948,7 +953,7 @@
             sprite: _Sunrise/Mobs/Species/Human/Old/Distrofik/displacement.rsi
             state: back
 
-### Male
+### Male 
 ## Slim
 # New
     maleDisplacements:
@@ -1082,7 +1087,7 @@
           32:
             sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
             state: back
-      neck-body-giga-f-old:
+      neck-body-giga-m-old:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/Old/Giga/displacement.rsi
@@ -1090,63 +1095,11 @@
 
 ## Fat
 # New
-      jumpsuit-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: jumpsuit-female
-      shoes-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: shoes
-      gloves-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: gloves
-      pants-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: panties
-      socks-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: socks
-      bra-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: bra
-      outerClothing-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: outer
-      hardsuit-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: hardsuit
-      back-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: back
-      head-body-fat-f-new:
-        sizeMaps:
-          32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: head
-
-# Old
       jumpsuit-body-fat-m-new:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
-            state: jumpsuit
+            state: jumpsuit-female
       shoes-body-fat-m-new:
         sizeMaps:
           32:
@@ -1187,6 +1140,63 @@
           32:
             sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
             state: back
+      head-body-fat-m-new:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: head
+
+# Old
+      jumpsuit-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: jumpsuit
+      shoes-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: shoes
+      gloves-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: gloves
+      pants-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: panties
+      socks-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: socks
+      bra-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: bra
+      outerClothing-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: outer
+      hardsuit-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: hardsuit
+      back-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: back
+      head-body-fat-m-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            state: head
 
 
 
