@@ -49,6 +49,10 @@
           "directions" : 4
       },
       {
+          "name": "head",
+          "directions" : 4
+      },
+      {
           "name": "hardsuit",
           "directions" : 4
       }

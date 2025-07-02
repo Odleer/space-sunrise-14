@@ -229,6 +229,11 @@
           32:
             sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: back
+      head-body-fat-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
+            state: head
 
 ## Distrofik
 # Old
@@ -733,6 +738,11 @@
           32:
             sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: back
+      head-body-fat-f-old:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
+            state: head
 
 ## Distrofik
 # Old

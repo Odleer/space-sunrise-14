@@ -5,17 +5,7 @@
   prototype: MobDwarf
   bodyTypes:
   - HumanNormalOld
-  - HumanSlimFemaleOld
-  - HumanSlimMaleOld
-  - HumanGigaFemaleOld
-  - HumanGigaMaleOld
-  - HumanFatFemaleOld
-  - HumanFatMaleOld
-  - HumanDistrofikFemaleOld
-  - HumanDistrofikMaleOld
   - HumanNormalNew
-  - HumanSlimFemaleNew
-  - HumanSlimMaleNew
   markingLimits: MobHumanMarkingLimits
   dollPrototype: MobDwarfDummy
   skinColoration: HumanToned
