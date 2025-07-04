@@ -122,7 +122,7 @@
           32:
             sprite: _Sunrise/Mobs/Species/Reptilian/displacement.rsi
             state: outer
-      hardsuit:
+      hardsuit-body-normal:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Reptilian/displacement.rsi
@@ -204,7 +204,7 @@
           32:
             sprite: _Sunrise/Mobs/Species/Reptilian/displacement.rsi
             state: outer
-      hardsuit:
+      hardsuit-body-normal:
         sizeMaps:
           32:
             sprite: _Sunrise/Mobs/Species/Reptilian/displacement.rsi
