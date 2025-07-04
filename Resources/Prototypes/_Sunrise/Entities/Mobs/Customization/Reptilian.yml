@@ -1,7 +1,7 @@
-#Horns
+# Рога
 - type: marking
-  id: LizardHornsArgali2
-  name: Унатх, рожки (Толстый  Аргали)
+  id: ReptilianHornsArgali2
+  name: Унатх, рожки (Толстый Аргали)
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -10,7 +10,8 @@
     state: horns_argali2
 
 - type: marking
-  id: LizardHornsAyrshire2
+  id: ReptilianHornsAyrshire2
+  name: Унатх, рожки (Айршир)
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -19,7 +20,8 @@
     state: horns_ayrshire2
 
 - type: marking
-  id: LizardHornsBambi
+  id: ReptilianHornsBambi
+  name: Унатх, рожки (Бэмби)
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -28,7 +30,8 @@
     state: horns_bambi
 
 - type: marking
-  id: LizardHornsBig
+  id: ReptilianHornsBig
+  name: Унатх, большие рога
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -37,7 +40,8 @@
     state: horns_big
 
 - type: marking
-  id: LizardHornsBighorn2
+  id: ReptilianHornsBighorn2
+  name: Унатх, рожки (Бигхорн)
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -46,7 +50,8 @@
     state: horns_bighorn2
 
 - type: marking
-  id: LizardHornsCorkscrew
+  id: ReptilianHornsCorkscrew
+  name: Унатх, рожки (Штопор)
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -55,7 +60,8 @@
     state: horns_corkscrew
 
 - type: marking
-  id: LizardHornsDeathclaw
+  id: ReptilianHornsDeathclaw
+  name: Унатх, рожки (Коготь смерти)
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -64,7 +70,8 @@
     state: horns_deathclaw
 
 - type: marking
-  id: LizardHornsDeathclawgreat
+  id: ReptilianHornsDeathclawgreat
+  name: Унатх, рожки (Великий коготь смерти)
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -73,7 +80,8 @@
     state: horns_deathclawgreat
 
 - type: marking
-  id: LizardHornsDouble2
+  id: ReptilianHornsDouble2
+  name: Унатх, двойные рожки
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -82,7 +90,8 @@
     state: horns_double2
 
 - type: marking
-  id: LizardHornsDragon
+  id: ReptilianHornsDragon
+  name: Унатх, драконьи рога
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -91,7 +100,8 @@
     state: horns_dragon
 
 - type: marking
-  id: LizardHornsMohawk
+  id: ReptilianHornsMohawk
+  name: Унатх, рожки-ирокез
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -100,7 +110,8 @@
     state: horns_mohawk
 
 - type: marking
-  id: LizardHornsOlddragon
+  id: ReptilianHornsOlddragon
+  name: Унатх, древние драконьи рога
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -109,7 +120,8 @@
     state: horns_olddragon
 
 - type: marking
-  id: LizardHornsMyrsore2
+  id: ReptilianHornsMyrsore2
+  name: Унатх, рожки (Мирсор)
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -118,7 +130,8 @@
     state: horns_myrsore2
 
 - type: marking
-  id: LizardHornsTrike
+  id: ReptilianHornsTrike
+  name: Унатх, трицератопсовые рога
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Reptilian]
@@ -126,9 +139,10 @@
   - sprite: _Sunrise/Mobs/Customization/Reptilian/horns.rsi
     state: horns_trike
 
-#Tails
+# Хвосты
 - type: marking
-  id: LizardTailCurved
+  id: ReptilianTailCurved
+  name: Унатх, изогнутый хвост
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Reptilian]
@@ -137,7 +151,8 @@
     state: tail_curved
 
 - type: marking
-  id: LizardTailFlexible
+  id: ReptilianTailFlexible
+  name: Унатх, гибкий хвост
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Reptilian]
@@ -146,7 +161,8 @@
     state: tail_flexible
 
 - type: marking
-  id: LizardTailSpiky
+  id: ReptilianTailSpiky
+  name: Унатх, колючий хвост
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Reptilian]
@@ -155,7 +171,8 @@
     state: tail_spiky
 
 - type: marking
-  id: LizardTailRidge
+  id: ReptilianTailRidge
+  name: Унатх, хребтовый хвост
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Reptilian]
@@ -163,9 +180,10 @@
   - sprite: _Sunrise/Mobs/Customization/Reptilian/tails.rsi
     state: tail_ridge
 
-#Body
+# Тело
 - type: marking
-  id: LizardChestPrickly
+  id: ReptilianChestPrickly
+  name: Унатх, колючая грудь
   bodyPart: Chest
   markingCategory: Chest
   speciesRestriction: [Reptilian]
@@ -174,7 +192,8 @@
     state: body_prickly
 
 - type: marking
-  id: LizardChestRidge
+  id: ReptilianChestRidge
+  name: Унатх, грудь с гребнем
   bodyPart: Chest
   markingCategory: Chest
   speciesRestriction: [Reptilian]
@@ -182,9 +201,10 @@
   - sprite: _Sunrise/Mobs/Customization/Reptilian/body.rsi
     state: body_ridge
 
-#Frills
+# Воротники
 - type: marking
-  id: LizardFrillsCollar
+  id: ReptilianFrillsCollar
+  name: Унатх, воротник
   bodyPart: HeadSide
   markingCategory: HeadSide
   speciesRestriction: [Reptilian]
@@ -193,7 +213,8 @@
     state: frills_collar
 
 - type: marking
-  id: LizardFrillsFins
+  id: ReptilianFrillsFins
+  name: Унатх, плавниковый воротник
   bodyPart: HeadSide
   markingCategory: HeadSide
   speciesRestriction: [Reptilian]
@@ -202,7 +223,8 @@
     state: frills_fins
 
 - type: marking
-  id: LizardFrillsFinsKing
+  id: ReptilianFrillsFinsKing
+  name: Унатх, королевский плавниковый воротник
   bodyPart: HeadSide
   markingCategory: HeadSide
   speciesRestriction: [Reptilian]
@@ -210,9 +232,10 @@
   - sprite: _Sunrise/Mobs/Customization/Reptilian/frills.rsi
     state: frills_finsking
 
-#Snout
+# Морда
 - type: marking
-  id: LizardSnoutFlat
+  id: ReptilianSnoutFlat
+  name: Унатх, плоская морда
   bodyPart: Snout
   markingCategory: Snout
   forcedColoring: true
@@ -222,7 +245,8 @@
     state: snout_flat
 
 - type: marking
-  id: LizardSnoutHigh
+  id: ReptilianSnoutHigh
+  name: Унатх, высокая морда
   bodyPart: Snout
   markingCategory: Snout
   forcedColoring: true
