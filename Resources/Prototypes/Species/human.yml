@@ -77,7 +77,6 @@
       points: 2
       required: false
 
-### Wizard Human
 - type: humanoidBaseSprite
   id: MobHumanoidEyes
   baseSprite:
@@ -91,6 +90,11 @@
   id: MobHumanoidMarkingMatchSkin
   markingsMatchSkin: true
 
+#- type: humanoidBaseSprite
+#  id: MobHumanHead
+#  baseSprite:
+#    sprite: Mobs/Species/Human/parts.rsi
+#    state: head_m
 
 - type: humanoidBaseSprite
   id: MobHumanHeadMale
@@ -103,6 +107,12 @@
   baseSprite:
     sprite: _Sunrise/Mobs/Species/Human/Old/Basic/parts.rsi
     state: head_f
+
+#- type: humanoidBaseSprite
+#  id: MobHumanTorso
+#  baseSprite:
+#    sprite: Mobs/Species/Human/parts.rsi
+#    state: torso_m
 
 - type: humanoidBaseSprite
   id: MobHumanTorsoMale
