@@ -446,8 +446,9 @@
   components:
   - type: Sprite
     scale: 1, 0.8
+  - type: Inventory
     ### Female
-    # Base
+    ## BASE
     femaleDisplacements:
       jumpsuit-body-normal:
         sizeMaps:
