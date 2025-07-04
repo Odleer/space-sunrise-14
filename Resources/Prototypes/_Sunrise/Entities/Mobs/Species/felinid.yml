@@ -304,7 +304,6 @@
           32:
             sprite: _Sunrise/Mobs/Species/Human/Giga/displacement.rsi
             state: neck
-
       # Fat
       jumpsuit-body-fat-m:
         sizeMaps:
