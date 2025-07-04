@@ -1,18 +1,22 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Reworked by &H13;#4495",
+  "copyright": "Made by Borkroman",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
     {
-      "name": "ears_slime_fox_inner",
+      "name": "frills_collar",
       "directions": 4
     },
     {
-      "name": "ears_slime_fox_outer",
+      "name": "frills_fins",
+      "directions": 4
+    },
+    {
+      "name": "frills_finsking",
       "directions": 4
     }
   ]

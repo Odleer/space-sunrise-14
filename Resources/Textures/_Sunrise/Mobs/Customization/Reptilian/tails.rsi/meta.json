@@ -1,62 +1,58 @@
 {
   "version": 1,
-  "license": "CLA",
-  "copyright": "Sprited by discord: odlieerr",
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by Borkroman",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
     {
-      "name": "full",
+      "name": "tail_curved",
       "directions": 4
     },
     {
-      "name": "head_f",
+      "name": "tail_curved_behind",
       "directions": 4
     },
     {
-      "name": "head_m",
+      "name": "tail_curved_front",
       "directions": 4
     },
     {
-      "name": "l_arm",
+      "name": "tail_flexible",
       "directions": 4
     },
     {
-      "name": "l_foot",
+      "name": "tail_flexible_behind",
       "directions": 4
     },
     {
-      "name": "l_hand",
+      "name": "tail_flexible_front",
       "directions": 4
     },
     {
-      "name": "l_leg",
+      "name": "tail_ridge",
       "directions": 4
     },
     {
-      "name": "r_arm",
+      "name": "tail_ridge_behind",
       "directions": 4
     },
     {
-      "name": "r_foot",
+      "name": "tail_ridge_front",
       "directions": 4
     },
     {
-      "name": "r_hand",
+      "name": "tail_spiky",
       "directions": 4
     },
     {
-      "name": "r_leg",
+      "name": "tail_spiky_behind",
       "directions": 4
     },
     {
-      "name": "torso_f",
-      "directions": 4
-    },
-    {
-      "name": "torso_m",
+      "name": "tail_spiky_front",
       "directions": 4
     }
   ]
