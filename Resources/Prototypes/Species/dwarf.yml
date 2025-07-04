@@ -4,15 +4,15 @@
   roundStart: true
   prototype: MobDwarf
   bodyTypes:
-  - HumanNormalOld
-  - HumanSlimFemaleOld
-  - HumanSlimMaleOld
-  - HumanGigaFemaleOld
-  - HumanGigaMaleOld
-  - HumanFatFemaleOld
-  - HumanFatMaleOld
-  - HumanDistrofikFemaleOld
-  - HumanDistrofikMaleOld
+  - HumanNormal
+  - HumanSlimFemale
+  - HumanSlimMale
+  - HumanGigaFemale
+  - HumanGigaMale
+  - HumanFatFemale
+  - HumanFatMale
+  - HumanDistrofikFemale
+  - HumanDistrofikMale
   markingLimits: MobHumanMarkingLimits
   dollPrototype: MobDwarfDummy
   skinColoration: HumanToned
