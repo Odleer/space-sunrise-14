@@ -1,0 +1,500 @@
+####### BODYTYPES ######
+- type: bodyType
+  id: HumanSlimFemale
+  name: body-slim-f
+  sexRestrictions:
+    - Male
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanSlimHeadOld
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanSlimTorsoOld
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidSlimEyesOld
+    LArm: MobHumanSlimLArmOld
+    RArm: MobHumanSlimRArmOld
+    LHand: MobHumanSlimLHandOld
+    RHand: MobHumanSlimRHandOld
+    LLeg: MobHumanSlimLLegOld
+    RLeg: MobHumanSlimRLegOld
+    LFoot: MobHumanSlimLFootOld
+    RFoot: MobHumanSlimRFootOld
+
+- type: bodyType
+  id: HumanSlimMale
+  name: body-slim-m
+  sexRestrictions:
+    - Female
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanSlimHeadOld
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanSlimTorsoOld
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidSlimEyesOld
+    LArm: MobHumanSlimLArmOld
+    RArm: MobHumanSlimRArmOld
+    LHand: MobHumanSlimLHandOld
+    RHand: MobHumanSlimRHandOld
+    LLeg: MobHumanSlimLLegOld
+    RLeg: MobHumanSlimRLegOld
+    LFoot: MobHumanSlimLFootOld
+    RFoot: MobHumanSlimRFootOld
+
+- type: bodyType
+  id: HumanGigaFemale
+  name: body-giga-f
+  sexRestrictions:
+    - Male
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanGigaHeadOld
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanGigaTorsoOld
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidGigaEyesOld
+    LArm: MobHumanGigaLArmOld
+    RArm: MobHumanGigaRArmOld
+    LHand: MobHumanGigaLHandOld
+    RHand: MobHumanGigaRHandOld
+    LLeg: MobHumanGigaLLegOld
+    RLeg: MobHumanGigaRLegOld
+    LFoot: MobHumanGigaLFootOld
+    RFoot: MobHumanGigaRFootOld
+
+- type: bodyType
+  id: HumanGigaMale
+  name: body-giga-m
+  sexRestrictions:
+    - Female
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanGigaHeadOld
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanGigaTorsoOld
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidGigaEyesOld
+    LArm: MobHumanGigaLArmOld
+    RArm: MobHumanGigaRArmOld
+    LHand: MobHumanGigaLHandOld
+    RHand: MobHumanGigaRHandOld
+    LLeg: MobHumanGigaLLegOld
+    RLeg: MobHumanGigaRLegOld
+    LFoot: MobHumanGigaLFootOld
+    RFoot: MobHumanGigaRFootOld
+
+- type: bodyType
+  id: HumanFatFemale
+  name: body-fat-f
+  sexRestrictions:
+    - Male
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanFatHeadOld
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanFatTorsoOld
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidFatEyesOld
+    LArm: MobHumanFatLArmOld
+    RArm: MobHumanFatRArmOld
+    LHand: MobHumanFatLHandOld
+    RHand: MobHumanFatRHandOld
+    LLeg: MobHumanFatLLegOld
+    RLeg: MobHumanFatRLegOld
+    LFoot: MobHumanFatLFootOld
+    RFoot: MobHumanFatRFootOld
+
+- type: bodyType
+  id: HumanFatMale
+  name: body-fat-m
+  sexRestrictions:
+    - Female
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanFatHeadOld
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanFatTorsoOld
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidFatEyesOld
+    LArm: MobHumanFatLArmOld
+    RArm: MobHumanFatRArmOld
+    LHand: MobHumanFatLHandOld
+    RHand: MobHumanFatRHandOld
+    LLeg: MobHumanFatLLegOld
+    RLeg: MobHumanFatRLegOld
+    LFoot: MobHumanFatLFootOld
+    RFoot: MobHumanFatRFootOld
+
+- type: bodyType
+  id: HumanDistrofikFemale
+  name: body-distrofik-f
+  sexRestrictions:
+    - Male
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanDistrofikHeadOld
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanDistrofikTorsoOld
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidDistrofikEyesOld
+    LArm: MobHumanDistrofikLArmOld
+    RArm: MobHumanDistrofikRArmOld
+    LHand: MobHumanDistrofikLHandOld
+    RHand: MobHumanDistrofikRHandOld
+    LLeg: MobHumanDistrofikLLegOld
+    RLeg: MobHumanDistrofikRLegOld
+    LFoot: MobHumanDistrofikLFootOld
+    RFoot: MobHumanDistrofikRFootOld
+
+- type: bodyType
+  id: HumanDistrofikMale
+  name: body-distrofik-m
+  sexRestrictions:
+    - Female
+  sprites:
+    Special: MobHumanoidAnyMarking
+    Head: MobHumanDistrofikHeadOld
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Chest: MobHumanDistrofikTorsoOld
+    HeadTop: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidDistrofikEyesOld
+    LArm: MobHumanDistrofikLArmOld
+    RArm: MobHumanDistrofikRArmOld
+    LHand: MobHumanDistrofikLHandOld
+    RHand: MobHumanDistrofikRHandOld
+    LLeg: MobHumanDistrofikLLegOld
+    RLeg: MobHumanDistrofikRLegOld
+    LFoot: MobHumanDistrofikLFootOld
+    RFoot: MobHumanDistrofikRFootOld
+
+###### SPRITES THEMSELF ######
+
+# Distrofik:
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikHeadOldMale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikHeadOldFemale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: head_f
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikTorsoOldMale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikTorsoOldFemale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: torso_f
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikLLegOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: l_leg
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikLArmOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: l_arm
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikLHandOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: l_hand
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikLFootOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: l_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikRLegOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: r_leg
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikRArmOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: r_arm
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikRHandOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: r_hand
+
+- type: humanoidBaseSprite
+  id: MobHumanDistrofikRFootOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Distrofik/parts.rsi
+    state: r_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanoidDistrofikEyesOld
+  baseSprite:
+    sprite: Mobs/Customization/eyes.rsi
+    state: eyes
+# FAT:
+- type: humanoidBaseSprite
+  id: MobHumanFatHeadOldMale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobHumanFatHeadOldFemale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: head_f
+
+- type: humanoidBaseSprite
+  id: MobHumanFatTorsoOldMale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobHumanFatTorsoOldFemale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: torso_f
+
+- type: humanoidBaseSprite
+  id: MobHumanFatLLegOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: l_leg
+
+- type: humanoidBaseSprite
+  id: MobHumanFatLArmOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: l_arm
+
+- type: humanoidBaseSprite
+  id: MobHumanFatLHandOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: l_hand
+
+- type: humanoidBaseSprite
+  id: MobHumanFatLFootOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: l_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanFatRLegOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: r_leg
+
+- type: humanoidBaseSprite
+  id: MobHumanFatRArmOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: r_arm
+
+- type: humanoidBaseSprite
+  id: MobHumanFatRHandOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: r_hand
+
+- type: humanoidBaseSprite
+  id: MobHumanFatRFootOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Fat/parts.rsi
+    state: r_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanoidFatEyesOld
+  baseSprite:
+    sprite: Mobs/Customization/eyes.rsi
+    state: eyes
+# GIGA:
+# Old
+- type: humanoidBaseSprite
+  id: MobHumanGigaHeadOldMale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaHeadOldFemale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: head_f
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaTorsoOldMale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaTorsoOldFemale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: torso_f
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaLLegOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: l_leg
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaLArmOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: l_arm
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaLHandOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: l_hand
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaLFootOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: l_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaRLegOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: r_leg
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaRArmOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: r_arm
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaRHandOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: r_hand
+
+- type: humanoidBaseSprite
+  id: MobHumanGigaRFootOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Giga/parts.rsi
+    state: r_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanoidGigaEyesOld
+  baseSprite:
+    sprite: Mobs/Customization/eyes.rsi
+    state: eyes
+# SLIM:
+- type: humanoidBaseSprite
+  id: MobHumanSlimHeadOldMale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimHeadOldFemale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: head_f
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimTorsoOldMale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimTorsoOldFemale
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: torso_f
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimLLegOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: l_leg
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimLArmOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: l_arm
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimLHandOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: l_hand
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimLFootOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: l_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimRLegOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: r_leg
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimRArmOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: r_arm
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimRHandOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: r_hand
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimRFootOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Old/Slim/parts.rsi
+    state: r_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanoidSlimEyesOld
+  baseSprite:
+    sprite: _Sunrise/Mobs/Customization/slim_eyes.rsi
+    state: slim_eyes
