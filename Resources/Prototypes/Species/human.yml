@@ -13,11 +13,6 @@
   - HumanFatMaleOld
   - HumanDistrofikFemaleOld
   - HumanDistrofikMaleOld
-#  - HumanNormalNew
-#  - HumanSlimFemaleNew
-#  - HumanSlimMaleNew
-#  - HumanFatMaleNew
-#  - HumanFatFemaleNew
   markingLimits: MobHumanMarkingLimits
   dollPrototype: MobHumanDummy
   skinColoration: HumanToned

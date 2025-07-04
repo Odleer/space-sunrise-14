@@ -5,7 +5,14 @@
   prototype: MobFelinid
   bodyTypes:
   - HumanNormalOld
-#  - HumanNormalNew
+  - HumanSlimFemaleOld
+  - HumanSlimMaleOld
+  - HumanGigaFemaleOld
+  - HumanGigaMaleOld
+  - HumanFatFemaleOld
+  - HumanFatMaleOld
+  - HumanDistrofikFemaleOld
+  - HumanDistrofikMaleOld
   markingLimits: MobFelinidMarkingLimits
   dollPrototype: MobFelinidDummy
   skinColoration: HumanToned
