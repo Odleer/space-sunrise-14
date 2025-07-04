@@ -260,6 +260,7 @@
             state: back
       ### Male
       ## Slim
+    maleDisplacements:
       jumpsuit-body-slim-m:
         sizeMaps:
           32:
