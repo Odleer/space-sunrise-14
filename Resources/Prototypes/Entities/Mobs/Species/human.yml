@@ -631,7 +631,6 @@
             state: back
 
 
-
   # Sunrise-Start
   - type: FootprintEmitter
   - type: Carriable
