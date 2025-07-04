@@ -5,7 +5,7 @@
   prototype: MobDwarf
   bodyTypes:
   - HumanNormalOld
-  - HumanNormalNew
+#  - HumanNormalNew
   markingLimits: MobHumanMarkingLimits
   dollPrototype: MobDwarfDummy
   skinColoration: HumanToned

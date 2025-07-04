@@ -1149,52 +1149,52 @@
       jumpsuit-body-fat-m-old:
         sizeMaps:
           32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: jumpsuit
       shoes-body-fat-m-old:
         sizeMaps:
           32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: shoes
       gloves-body-fat-m-old:
         sizeMaps:
           32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: gloves
       pants-body-fat-m-old:
         sizeMaps:
           32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: panties
       socks-body-fat-m-old:
         sizeMaps:
           32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: socks
       bra-body-fat-m-old:
         sizeMaps:
           32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: bra
       outerClothing-body-fat-m-old:
         sizeMaps:
           32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: outer
       hardsuit-body-fat-m-old:
         sizeMaps:
           32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: hardsuit
       back-body-fat-m-old:
         sizeMaps:
           32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: back
       head-body-fat-m-old:
         sizeMaps:
           32:
-            sprite: _Sunrise/Mobs/Species/Human/New/Fat/displacement.rsi
+            sprite: _Sunrise/Mobs/Species/Human/Old/Fat/displacement.rsi
             state: head
 
 

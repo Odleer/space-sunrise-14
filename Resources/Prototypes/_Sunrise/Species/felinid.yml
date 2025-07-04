@@ -5,7 +5,7 @@
   prototype: MobFelinid
   bodyTypes:
   - HumanNormalOld
-  - HumanNormalNew
+#  - HumanNormalNew
   markingLimits: MobFelinidMarkingLimits
   dollPrototype: MobFelinidDummy
   skinColoration: HumanToned
