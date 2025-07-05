@@ -341,8 +341,8 @@
 
 - type: marking
   id: LizardChestBackspikes
-  bodyPart: Chest
-  markingCategory: Chest
+  bodyPart: Back # SUNRISE EDIT
+  markingCategory: Back # SUNRISE EDIT
   speciesRestriction: [Reptilian]
   sprites:
   - sprite: Mobs/Customization/reptilian_parts.rsi

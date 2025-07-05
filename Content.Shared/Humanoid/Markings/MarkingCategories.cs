@@ -16,7 +16,8 @@ namespace Content.Shared.Humanoid.Markings
         Arms,
         Legs,
         Tail,
-        Overlay
+        Overlay,
+        Back, // SUNRISE
     }
 
     public static class MarkingCategoriesConversion
