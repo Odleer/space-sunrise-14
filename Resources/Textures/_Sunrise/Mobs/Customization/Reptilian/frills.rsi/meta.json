@@ -12,11 +12,43 @@
       "directions": 4
     },
     {
+      "name": "frills_collar2",
+      "directions": 4
+    },
+    {
       "name": "frills_fins",
       "directions": 4
     },
     {
+      "name": "frills_fins2",
+      "directions": 4
+    },
+    {
       "name": "frills_finsking",
+      "directions": 4
+    },
+    {
+      "name": "frills_finsking2",
+      "directions": 4
+    },
+    {
+      "name": "frills_fins_big",
+      "directions": 4
+    },
+    {
+      "name": "frills_fins_big2",
+      "directions": 4
+    },
+    {
+      "name": "frills_ridge",
+      "directions": 4
+    },
+    {
+      "name": "frills_ridge_full",
+      "directions": 4
+    },
+    {
+      "name": "frills_ridge_small",
       "directions": 4
     }
   ]

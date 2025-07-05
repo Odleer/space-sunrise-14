@@ -14,6 +14,22 @@
     {
       "name": "snout_high",
       "directions": 4
+    },
+    {
+      "name": "snout_croc",
+      "directions": 4
+    },
+    {
+      "name": "snout_tumb",
+      "directions": 4
+    },
+    {
+      "name": "snout_beak",
+      "directions": 4
+    },
+    {
+      "name": "snout_small",
+      "directions": 4
     }
   ]
 }

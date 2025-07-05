@@ -3,28 +3,24 @@
   "license": "CC-BY-SA-3.0",
   "copyright": "Made by Borkroman",
   "size": {
-    "x": 32,
-    "y": 32
+    "x": 48,
+    "y": 48
   },
   "states": [
     {
-      "name": "body_prickly",
+      "name": "base",
       "directions": 4
     },
     {
-      "name": "body_underbelly_f",
+      "name": "spike",
       "directions": 4
     },
     {
-      "name": "body_ridge",
+      "name": "down",
       "directions": 4
     },
     {
-      "name": "body_ridge_double",
-      "directions": 4
-    },
-    {
-      "name": "body_ridge_small",
+      "name": "ridge",
       "directions": 4
     }
   ]
