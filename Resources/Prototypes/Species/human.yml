@@ -90,11 +90,11 @@
   id: MobHumanoidMarkingMatchSkin
   markingsMatchSkin: true
 
-#- type: humanoidBaseSprite
-#  id: MobHumanHead
-#  baseSprite:
-#    sprite: Mobs/Species/Human/parts.rsi
-#    state: head_m
+- type: humanoidBaseSprite
+  id: MobHumanHead
+  baseSprite:
+    sprite: Mobs/Species/Human/parts.rsi
+    state: head_m
 
 - type: humanoidBaseSprite
   id: MobHumanHeadMale
@@ -108,11 +108,11 @@
     sprite: _Sunrise/Mobs/Species/Human/Basic/parts.rsi
     state: head_f
 
-#- type: humanoidBaseSprite
-#  id: MobHumanTorso
-#  baseSprite:
-#    sprite: Mobs/Species/Human/parts.rsi
-#    state: torso_m
+- type: humanoidBaseSprite
+  id: MobHumanTorso
+  baseSprite:
+    sprite: Mobs/Species/Human/parts.rsi
+    state: torso_m
 
 - type: humanoidBaseSprite
   id: MobHumanTorsoMale

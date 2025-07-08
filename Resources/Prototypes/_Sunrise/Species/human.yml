@@ -422,6 +422,12 @@
     state: eyes
 # SLIM:
 - type: humanoidBaseSprite
+  id: MobHumanSlimHead
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
   id: MobHumanSlimHeadMale
   baseSprite:
     sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
@@ -432,6 +438,12 @@
   baseSprite:
     sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
     state: head_f
+
+- type: humanoidBaseSprite
+  id: MobHumanSlimTorso
+  baseSprite:
+    sprite: _Sunrise/Mobs/Species/Human/Slim/parts.rsi
+    state: torso_m
 
 - type: humanoidBaseSprite
   id: MobHumanSlimTorsoMale
