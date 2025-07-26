@@ -1,8 +1,8 @@
+# Определения рецептов для Factory
 - type: latheRecipePack
   id: OdleerRecipe
   recipes:
   - OdleerSheetSteelRecipe
-
 
 - type: latheRecipe
   abstract: true
@@ -18,6 +18,49 @@
   materials:
     Steel: 1000
 
+# Базовая фабричная машина
+- type: entity
+  parent: [ BaseMachinePowered, ConstructibleMachine ]
+  id: FactoryCore
+  name: "Фабричный процессор"
+  description: "Машина, перерабатывающая объекты в новые за ресурсы."
+  components:
+    - type: Sprite
+      sprite: Structures/Machines/autolathe.rsi
+      snapCardinals: true
+      layers:
+      - state: icon
+        map: ["enum.LatheVisualLayers.IsRunning"]
+      - state: unlit
+        shader: unshaded
+        map: ["enum.PowerDeviceVisualLayers.Powered"]
+      - state: inserting
+        map: ["enum.MaterialStorageVisualLayers.Inserting"]
+      - state: panel
+        map: ["enum.WiresVisualLayers.MaintenancePanel"]
+    - type: Machine
+      board: FactoryCoreCircuitboard
+    - type: CollideFactory
+      enabled: true
+    - type: Factory
+      recipe: OdleerSheetSteelRecipe         # id рецепта по умолчанию
+      borgRecipePack: OdleerRecipe           # id пакета рецептов
+      enabled: true
+      soundCooldown: 0.8
+    - type: MaterialStorage
+      whitelist:
+        tags:
+        - Sheet
+        - RawMaterial
+        - Ingot
+    - type: Tag
+      tags:
+        - Structure
+        - Factory
+    - type: StaticPrice
+      price: 1200
+
+# Материнский корабль - ядро
 - type: entity
   parent:
   - BaseMachinePowered
@@ -182,6 +225,7 @@
 # TODO: add xenoborg control interface action (part 5)
 # TODO: add xenoborg camera monitor interface action (part 5)
 
+# Экшены для материнского корабля
 - type: entity
   id: ActionMothershipShowPower
   name: Power Monitoring Interface
