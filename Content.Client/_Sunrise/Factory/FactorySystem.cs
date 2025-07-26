@@ -1,6 +1,7 @@
 using Content.Shared.Lathe;
 using Content.Shared.Verbs;
 using Content.Shared._Sunrise.Factory.Components;
+using Content.Shared.Interaction;
 using Robust.Shared.Prototypes;
 using System.Linq;
 using Content.Client._Sunrise.Factory;
