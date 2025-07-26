@@ -1,6 +1,7 @@
 using Content.Shared.Lathe;
 using Content.Shared.Verbs;
 using Content.Shared._Sunrise.Factory.Components;
+using Content.Shared.Interaction;
 using Robust.Shared.Prototypes;
 using System.Linq;
 using Content.Client._Sunrise.Factory;
@@ -49,7 +50,7 @@ public sealed class FactorySystem : EntitySystem
 
     private void OnAfterInteract(EntityUid uid, FactoryComponent component, AfterInteractEvent args)
     {
-        if (!args.CanReach || !args.User.IsClientSide())
+        if (!args.CanReach || !IsClientSide(args.User))
             return;
 
         OpenFactoryStorageWindow(uid);
@@ -58,8 +59,8 @@ public sealed class FactorySystem : EntitySystem
     private void OpenFactoryStorageWindow(EntityUid factoryUid)
     {
         _window?.Dispose();
-        _window = new FactoryMaterialStorageWindow();
+        _window = _uiManager.CreateWindow<FactoryMaterialStorageWindow>();
         _window.SetOwner(factoryUid);
-        _uiManager.OpenWindow(_window);
+        _window.OpenCentered();
     }
 }
