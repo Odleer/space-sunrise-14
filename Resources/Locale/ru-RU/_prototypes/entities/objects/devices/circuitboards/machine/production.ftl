@@ -166,3 +166,5 @@ ent-CutterMachineCircuitboard = резательный станок (машин�
     .desc = { ent-BaseMachineCircuitboard.desc }
 ent-MaterialReclaimerMachineCircuitboard = переработчик материалов (машинная плата)
     .desc = { ent-BaseMachineCircuitboard.desc }
+ent-FactoryCoreCircuitboard = фабричный процессор (машинная плата)
+    .desc = Печатная плата для фабричного процессора.

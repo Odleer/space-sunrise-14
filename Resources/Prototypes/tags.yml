@@ -558,6 +558,9 @@
   id: ExplosivePassable
 
 - type: Tag
+  id: Factory
+
+- type: Tag
   id: Figurine
 
 - type: Tag

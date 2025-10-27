@@ -1,0 +1,19 @@
+<DefaultWindow
+    xmlns="https://spacestation14.io"
+    xmlns:ui="clr-namespace:Content.Client.Materials.UI"
+    xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
+    Title="{Loc 'factory-materials-title'}"
+    MinSize="400 300"
+    SetSize="500 350">
+    <BoxContainer Orientation="Vertical" VerticalExpand="True" HorizontalExpand="True">
+        <Label Text="{Loc 'factory-materials-list'}" HorizontalAlignment="Center" Margin="0 0 0 8"/>
+        <PanelContainer VerticalExpand="True" HorizontalExpand="True">
+            <PanelContainer.PanelOverride>
+                <gfx:StyleBoxFlat BackgroundColor="#1B1B1E" />
+            </PanelContainer.PanelOverride>
+            <BoxContainer Orientation="Vertical" VerticalExpand="True" HorizontalExpand="True">
+                <ui:MaterialStorageControl Name="MaterialsList" SizeFlagsStretchRatio="8"/>
+            </BoxContainer>
+        </PanelContainer>
+    </BoxContainer>
+</DefaultWindow> 
